@@ -1,6 +1,8 @@
 # TestApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.  
+It shows how to use a library generated with the `ng generate library` and how to project a custom component (compartment.component.ts) into a component contained in that library.  
+The library is here: https://github.com/augustincalin/d4g-truck
 
 ## Development server
 
