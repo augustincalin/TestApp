@@ -6,7 +6,7 @@ The library is here: https://github.com/augustincalin/d4g-truck
 If you want to use `npm link` then you have to:
 1. clone the d4g-truck repo
 2. run `ng build truck-lib --prod` in that project folder
-3. navigate to `dist/truck-lib` folder
+3. navigate to `dist/lib` folder
 4. run `npm link`
 5. go back to TestApp and run `npm i`
 6. run `npm link truck-lib` (the order is important: first `npm i` and then `npm link...` !)
